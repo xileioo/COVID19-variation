@@ -16,7 +16,7 @@ https://www.gisaid.org/help/publish-with-data-from-gisaid/
 **use "COVID19_variation_search_GUI.py" to search "1_variation_COVID19_Sarbecovirus.csv" table**
 
 ~~This was mistaken text~~  
-~~## need to do
+## ~~need to do~~
  - 计算所有位点的突变结果  
  - 可视化（Rmarkdown，R-DT）
  - RBD表达热图
